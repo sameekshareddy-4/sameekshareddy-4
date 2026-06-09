@@ -19,9 +19,14 @@
 - Git
 - Excel
 
-🚀 Currently:
-- Building projects
-- Learning AI & Data Science
-- Exploring real-world applications of technology
+🚀 Currently Building:
+- Student Performance Analytics System
+- DSA in C++
+- Python Data Analysis Projects
+
+📑 Learning:
+- SQL
+- Power BI
+- Data Analytics
 
 📫 Open to internship opportunities and collaborations
