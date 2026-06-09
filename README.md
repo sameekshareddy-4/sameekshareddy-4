@@ -12,9 +12,12 @@
 🛠 Skills:
 - Python
 - SQL
+- c++
+- Pandas
 - Data Analysis
 - Power BI
-- Git & GitHub
+- Git
+- Excel
 
 🚀 Currently:
 - Building projects
