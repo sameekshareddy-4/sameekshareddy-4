@@ -29,4 +29,12 @@
 - Power BI
 - Data Analytics
 
+📫 Reach me at:
+LinkedIn: linkedin.com/in/sameekshareddy4
+
+🏆 Current Goals:
+- Solve 100 DSA Problems
+- Build 2 Data Analytics Projects
+- Secure a Summer Internship
+
 📫 Open to internship opportunities and collaborations
