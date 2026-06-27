@@ -1,6 +1,7 @@
 # Hi, I'm Sameeksha Reddy 👋
 
 🎓 **B.Tech in Computer Science & Engineering** at **Mahindra University** 2024-2028
+
 🎓 **BS (Hons.) in AI & Data Science** at **IIT Guwahati**
 
 ---
