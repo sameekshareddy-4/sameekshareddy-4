@@ -1,40 +1,60 @@
-# Hi, I'm Sameeksha 👋
+# Hi, I'm Sameeksha Reddy 👋
 
-🎓 B.Tech CSE Student at Mahindra University
-🎓 BS (Hons.) in AI & Data Science at IIT Guwahati
+🎓 **B.Tech in Computer Science & Engineering** at **Mahindra University** 2024-2028
+🎓 **BS (Hons.) in AI & Data Science** at **IIT Guwahati**
 
-💻 Interested in:
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Software Development
+---
 
-🛠 Skills:
-- Python
-- SQL
-- c++
-- Pandas
-- Data Analysis
-- Power BI
-- Git
-- Excel
+## 💡 About Me
 
-🚀 Currently Building:
-- Student Performance Analytics System
-- DSA in C++
-- Python Data Analysis Projects
+I'm an aspiring **Data Analyst** and **Software Developer** passionate about solving real-world problems using data and technology. I'm currently building projects in **Python, SQL, Power BI, and C++** while strengthening my problem-solving skills through Data Structures & Algorithms.
 
-📑 Learning:
-- SQL
-- Power BI
-- Data Analytics
+---
 
-📫 Reach me at:
-LinkedIn: linkedin.com/in/sameekshareddy4
+## 🛠️ Skills
 
-🏆 Current Goals:
-- Solve 100 DSA Problems
-- Build 2 Data Analytics Projects
-- Secure a Summer Internship
+* Python
+* SQL (MySQL)
+* C++
+* Pandas
+* Power BI
+* Microsoft Excel
+* Git & GitHub
+* Data Analysis
 
-📫 Open to internship opportunities and collaborations
+---
+
+## 🚀 Featured Projects
+
+* 📊 Student Performance Analytics (MySQL + Python + Power BI)
+* 📈 Cryptocurrency Analysis Dashboard (Excel + VBA)
+* 💰 Employee Payroll Management System (Excel)
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms (C++)
+* Advanced SQL
+* Power BI
+* Python for Data Analytics
+* Machine Learning Fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+* Solve 150+ DSA problems
+* Build 5+ end-to-end Data Analytics projects
+* Strengthen Python, SQL, and Power BI skills
+* Secure a Data Analyst / Software Development Internship
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://linkedin.com/in/sameekshareddy4
+
+---
+
+⭐ *Always learning, always building.*
